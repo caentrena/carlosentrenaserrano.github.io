@@ -13,7 +13,7 @@ name = "Carlos Entrena Serrano"
 bio = "researcher, social media, algorithms, TikTok"
 avatar = "img/avatar.png"
 links = [
-    { name = "Scholar", icon = "book-shelf-line", url = "https://scholar.google.com/citations?user=NwTJzwwAAAAJ&hl=en" },
+    { name = "Scholar", icon = "linkedin", url = "https://scholar.google.com/citations?user=NwTJzwwAAAAJ&hl=en" },
     { name = "Linkedin", icon = "linkedin", url = "https://www.linkedin.com/in/carlosentrena/" },
     { name = "Email", icon = "email", url = "mailto:<carlos.entrena@vub.be>" },
 ]
