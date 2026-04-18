@@ -25,7 +25,7 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-I'm Carlos Entrena, a researcher interested in social media platforms and AI systems.
+I'm Carlos Entrena Serrano, a researcher interested in social media platforms and AI systems.
 
 With a background in <i>Computer Science</i> and <i>Media and Communication Studies</i>, I explore how technology and society shape one another.
 
