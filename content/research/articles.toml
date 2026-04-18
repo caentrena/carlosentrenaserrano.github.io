@@ -1,0 +1,35 @@
+[[collection]]
+type = "card"
+title = "Watch, scroll, repeat: How interface design shapes consumptive curation affordances on Tiktok"
+subtitle = "Social Media + Society <br> Entrena-Serrano, C." 
+date = "2025" #
+link = "https://journals.sagepub.com/doi/full/10.1177/20563051251358529"
+content = ""
+tags = ["TikTok", "interface", "consumptive curation", "affordances", "algorithms", "social media" ]
+
+[[collection]]
+type = "card"
+title = "TikTok's Research API: Problems Without Explanations"
+subtitle = "AI Forensics Report <br> Entrena-Serrano, C., Degeling, M., Romano, S., Çetin, RB" 
+date = "2025" #
+link = "https://doi.org/10.48550/arXiv.2506.09746"
+content = ""
+tags = ["TikTok", "API", "data donations", "experiment", "social media" ]
+
+[[collection]]
+type = "card"
+title = "Artifacts, Practices and Social Arrangements in Content Curation on TikTok: A Study on Political and Social Issues Content"
+subtitle = "AoIR Selected Papers of Internet Research <br> Entrena-Serrano, C., Meyer, T." 
+date = "2024" #
+link = "https://doi.org/10.5210/spir.v2024i0.13935"
+content = ""
+tags = ["TikTok", "consumptive curation", "political and social issues", "algorithms", "social media" ]
+
+[[collection]]
+type = "card"
+title = "AI or human: the socio-ethical implications of AI-generated media content"
+subtitle = "13th CMI Conference on Cybersecurity and Privacy (CMI) <br> Partadiredja, RA., Entrena-Serrano, C., Ljubenkov, D." 
+date = "2020" #
+link = "https://ieeexplore.ieee.org/abstract/document/9322673"
+content = ""
+tags = ["artificial intelligence", "AI-generated media content", "deepfakes"]
